@@ -1,3 +1,6 @@
+# 💫 About Me:
+Junior Software Engineer with experience building RESTful APIs and backend services using Laravel, PHP, and SQL. Skilled in mail service integration, web scraping, and data migration. Currently pursuing CCNA certification. Outside of coding, I enjoy playing offline open-world games, basketball, and learning new things.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pauluscaberte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauljairuscaberte34@gmail.com) 
