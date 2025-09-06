@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Software Engineer with experience building RESTful APIs and backend services using Laravel, PHP, and SQL. Skilled in mail service integration, web scraping, and data migration. Currently pursuing CCNA certification. Outside of coding, I enjoy playing offline open-world games, basketball, and learning new things.
+Software Engineer with experience building RESTful APIs and backend services using Laravel, PHP, and SQL. Skilled in mail service integration, web scraping, and data migration. Currently pursuing CCNA certification. Outside of coding, I enjoy playing offline open-world games, basketball, and learning new things.
 
 
 ## 🌐 Socials:
